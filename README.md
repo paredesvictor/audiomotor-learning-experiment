@@ -1,4 +1,4 @@
-# audiomotor-learning-experiment
+# Audiomotor learning experiment
 
 This repository contains several Max Patch to explore an audiomotor map with sensors.
 
@@ -14,4 +14,3 @@ This repository contains several Max Patch to explore an audiomotor map with sen
   - open the subpatchers: 'p input' --> 'p accelerometers' --> 'p sensors'
   - follow the instructions to link your sensors output to the patcher inputs
   - put sensors on your dominant arm (see sensor_position.png)
-
