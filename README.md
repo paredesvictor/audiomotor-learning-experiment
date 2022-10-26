@@ -17,4 +17,4 @@ This repository contains several Max Patch to explore an audiomotor map with sen
 4. Select 'sensors' as input. Now the cursor should move according to your arm position.
 
 ## Sensors position on arm and forearm
-![alt text](./readme-assets/arm.jpg)(./readme-assets/forearm.jpg)
+![alt text](./readme-assets/arm.jpg) ![alt text](./readme-assets/forearm.jpg)
