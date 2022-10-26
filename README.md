@@ -7,7 +7,7 @@ This repository contains several Max Patch to explore an audiomotor map with sen
 - **Sensors**: 2 Inertial Measurement Units with a 3 axis accelerometer and (optionnaly) a 3 axis gyroscope
 
 ## How to
-0. Clone the repository anywher
+0. Clone the repository, the repo weight around 500Mo due to .wav sound files.
 1. Open 'catart_read.maxpat', click 'add corpus' and select the '.mubu' file in the 'corpus' folder
 2. Select 'mouse' as input, click 'init' and turn on the ezdac. You should be able to move with your mouse in the space and hear sounds
 3. Sensors:
