@@ -7,7 +7,7 @@ This repository contains several Max Patch to explore an audiomotor map with sen
 - **Sensors**: 2 Inertial Measurement Units with a 3 axis accelerometer and (optionnaly) a 3 axis gyroscope
 
 ## How to
-0. Clone the repository anywher
+0. Clone the repository, the repo weight around 500Mo due to .wav sound files.
 1. Open 'catart_read.maxpat', click 'add corpus' and select the '.mubu' file in the 'corpus' folder
 2. Select 'mouse' as input, click 'init' and turn on the ezdac. You should be able to move with your mouse in the space and hear sounds
 3. Sensors:
@@ -15,3 +15,6 @@ This repository contains several Max Patch to explore an audiomotor map with sen
   - follow the instructions to link your sensors output to the patcher inputs
   - put sensors on your dominant arm (see sensor_position.png)
 4. Select 'sensors' as input. Now the cursor should move according to your arm position.
+
+## Sensors position on arm
+![alt text](https://github.com/victorparedes/audiomotor-learning-experiment/readme-assets/arm.jpg)
